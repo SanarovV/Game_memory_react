@@ -1,7 +1,7 @@
 {
   "name": "memorygame",
   "version": "0.1.0",
-  "homepage": "https://github.io",
+  "homepage": "https://sanarovv.github.io/Game_memory_react/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
